@@ -1,2 +1,3 @@
-# Ignore API Key
+# Ignore files/folders
 api_keys.py
+__pycache__/
